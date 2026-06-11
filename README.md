@@ -1,2 +1,2 @@
-# hola-python
+# hello-python
 Aprendiendo Python desde cero.
